@@ -1,2 +1,0 @@
-# LotUp_Bot
-LotUp
